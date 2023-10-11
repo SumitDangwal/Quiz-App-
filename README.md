@@ -1,2 +1,2 @@
-# Quizz-App-
-This is a quizz app creted in Android Studio Using java.
+# Quiz-App-
+This is a quiz app created in Android Studio Using java.
